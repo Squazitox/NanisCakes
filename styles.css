@@ -39,7 +39,7 @@ body{
   justify-content: space-between;
   padding: 12px 24px;
   z-index: 50;
-  background: linear-gradient(180deg, rgba(0,0,0,0.9), rgba(0,0,0,0.6));
+  background: linear-gradient(180deg, rgba(255,255,255.9), rgba(255,255,255.6));
   border-bottom: 1px solid rgba(212,175,55,0.3);
 }
 .logo{height:86px}
