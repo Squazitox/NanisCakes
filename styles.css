@@ -12,7 +12,7 @@ h1, h2, h3, .brand-title {
 }
 
 :root{
-  --bg:rgba(255, 255, 255, 1);
+  --bg:rgba(255, 192, 203,1);
   --gold:#d4af37;
   --muted:#b59e6a;
   --card-bg: rgba(255,192,203,1);
